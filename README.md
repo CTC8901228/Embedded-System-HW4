@@ -7,8 +7,11 @@
 然後跟hw2一樣加入sensor的library
 
 檔案丟到以下位置覆蓋:
-HeartRateService.h->mbed-os\connectivity\FEATURE_BLE\include\ble\services\HeartRateService.h
+
+HeartRateService.h->mbed-os\connectivity\FEATURE_BLE\include\ble\services\HeartRateService.h 
+
 main.cpp-> source\main.cpp
+
 hw3.py 想辦法丟到樹梅派上
 
 然後先跑stm32再跑rpi
